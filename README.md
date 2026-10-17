@@ -8,8 +8,7 @@
 
 ## 🚀 Live Hosted Application
 
-- **Live Deployment Link:** [Deploy to Vercel / Netlify / Render](#deployment-guide)  
-  *(Ready to deploy in 1 click; see [Deployment Guide](#deployment-guide) below)*
+- **Live Deployment Link:** **[https://lila-player-journey-tool-five.vercel.app/](https://lila-player-journey-tool-five.vercel.app/)**
 
 ---
 
