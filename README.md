@@ -77,8 +77,8 @@ Detailed system architecture and trade-offs are documented in [ARCHITECTURE.md](
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo-url>
-cd player_data
+git clone https://github.com/PixelMaster-123/LILA_Player_Journey_Tool.git
+cd LILA_Player_Journey_Tool
 npm install
 ```
 
