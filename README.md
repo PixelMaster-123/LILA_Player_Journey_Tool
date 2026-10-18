@@ -2,8 +2,6 @@
 
 > A web-based spatial telemetry and match replay tool built for LILA Games Level Designers to explore player behavior, combat hotspots, storm deaths, and map traversal patterns.
 
-![LILA BLACK Tool Preview](https://raw.githubusercontent.com/placeholder/preview.png)
-
 ---
 
 ## 🚀 Live Hosted Application
